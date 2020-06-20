@@ -1,4 +1,7 @@
-# Neural-Networks-Coursework
+# Artificial Neural Network for Fruit Recognition
 
 Find the dataset used here: https://www.kaggle.com/moltean/fruits.
-Feel free to show me where I went wrong, I'm a beginner so the input and feedback is really important to me and I know there are a lot of mistakes in the code and process. I'm currently working on making it better.
+
+This project aims at building an artificial neural network for fruit recognition. The neural nertwork was trained on a dataset of fruits and the performances of the approcahes used was compared. The approaches used were CNN and Transfer Learning. 
+
+Technologies used: Python, Jupyter Notebook, CNN, Transfer Learning, keras, numpy, pandas, sklearn, tensorflow, fastai, matplotlib.
